@@ -3,11 +3,21 @@ Drops and recreates departments and employees, inserts 4 departments and 10 empl
 <img width="857" height="178" alt="employees" src="https://github.com/user-attachments/assets/090a67e9-5b9b-480c-a82d-357a72974803" />
 
 <img width="667" height="88" alt="departments" src="https://github.com/user-attachments/assets/de810bbc-0748-4a75-91aa-6d3efd350411" />
+
+
 ## NUMBER CLASSIFIER
-Uses GOTO to classify a number as positive, negative or zero, then even or odd.<img width="459" height="422" alt="A1 A" src="https://github.com/user-attachments/assets/5ccaec97-eaa9-4513-9218-343ff4c38e37" />
+
+Uses GOTO to classify a number as positive, negative or zero, then even or odd.
+
+
+<img width="459" height="422" alt="A1 A" src="https://github.com/user-attachments/assets/5ccaec97-eaa9-4513-9218-343ff4c38e37" />
+
 
 <img width="226" height="101" alt="A1 B" src="https://github.com/user-attachments/assets/4e853c6f-920b-4eac-adec-8f323f94a2c4" />
+
+
 ## SALARY REVIEW
+
 Looks up an employee and uses GOTO to jump to the senior (3%), middle (5%) or junior (8%) band.
 
 <img width="428" height="145" alt="A2" src="https://github.com/user-attachments/assets/85648b2e-0ee0-41fd-904a-c71a55e561cc" />
